@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="126" started-at="2023-08-27T12:38:15 IST" finished-at="2023-08-27T12:38:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="126" started-at="2023-08-27T12:38:15 IST" finished-at="2023-08-27T12:38:15 IST">
+      <class name="PracticeTest.TestCaseOne">
+        <test-method status="PASS" signature="AloginPgverify2()[pri:0, instance:PracticeTest.TestCaseOne@3835c46]" name="AloginPgverify2" duration-ms="31" started-at="2023-08-27T12:38:15 IST" finished-at="2023-08-27T12:38:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AloginPgverify2 -->
+        <test-method status="PASS" signature="BloginPgverify1()[pri:0, instance:PracticeTest.TestCaseOne@3835c46]" name="BloginPgverify1" duration-ms="2" started-at="2023-08-27T12:38:15 IST" finished-at="2023-08-27T12:38:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BloginPgverify1 -->
+        <test-method status="PASS" signature="CloginPgverify3()[pri:0, instance:PracticeTest.TestCaseOne@3835c46]" name="CloginPgverify3" duration-ms="3" started-at="2023-08-27T12:38:15 IST" finished-at="2023-08-27T12:38:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloginPgverify3 -->
+      </class> <!-- PracticeTest.TestCaseOne -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
