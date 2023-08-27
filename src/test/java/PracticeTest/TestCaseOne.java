@@ -6,7 +6,7 @@ public class TestCaseOne {
 //@Test(dataProvider ="datareader",description = "this is my main test",groups = "",)
 	@Test
 public void BloginPgverify1() {
-	System.out.println("login page1");
+	System.out.println("login pagejhjhj");
 }
 
 	@Test
